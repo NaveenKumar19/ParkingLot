@@ -1,0 +1,18 @@
+[
+    {   
+        "id": 1,
+        "name":"CAR",
+        "image": "car"
+    },
+    {
+        
+        "id" : 2,
+        "name":"BIKE",
+        "image":"bike"
+    },
+    {
+        "id" : 3,
+        "name":"OTHERS",
+        "image":"others"
+    }
+]
